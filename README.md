@@ -7,3 +7,5 @@
  목차
  - linux
  - markdown
+
+ 최초로 등록이 끝나면 결국 git에서 할 건 add commit push가 끝
