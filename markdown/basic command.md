@@ -58,3 +58,5 @@ console.log("hello!")
 
  이것들이 모든 프로그램에서 통용되는 문법 7가지.
  이 외의 것들은 프로그램마다 상이한 적용
+
+ [출처]https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
