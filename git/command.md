@@ -62,7 +62,7 @@ git remote remove {remote_name}
 git push {remote_name}{branch_name}
 ```
 
-## `git pull'
+## `git pull`
 - 원격저장소에서 커밋을 다운로드
 ```
 git pull {remote_name}{branch_name}
